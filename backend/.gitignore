@@ -2,7 +2,7 @@
 /node_modules
 
 # Git and environment files
-**/.git/
+
 **/.env
 **/.idea/
 
