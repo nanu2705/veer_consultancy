@@ -1,11 +1,18 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
+<<<<<<< HEAD
 /node_modules
 
 
 
 .env
+=======
+
+/node_modules/
+
+
+>>>>>>> 78f1f80a814413576bd84d6e8171b077ee0d3a32
 **/.idea/
 
 /.pnp

@@ -3,7 +3,11 @@
 
 # Git and environment files
 
+<<<<<<< HEAD
 .env
+=======
+
+>>>>>>> 78f1f80a814413576bd84d6e8171b077ee0d3a32
 **/.idea/
 
 # pnp files
