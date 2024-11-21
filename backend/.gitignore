@@ -3,7 +3,7 @@
 
 # Git and environment files
 
-/.env
+.env
 **/.idea/
 
 # pnp files
